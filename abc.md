@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 目录
+comments: true
 ---
 
 # 第一课
